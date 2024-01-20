@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @techycode-01
+- 👋 Hi, I’m Anuj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA
