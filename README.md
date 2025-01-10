@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Anuj
-- 🎓 I am a Final year B.Tech Computer Science student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
-- 👀 I’m MERN Stack Web Developer
-- 🌱 I’m currently learning DSA
+- 🎓 I am a recent B.Tech graduate in Computer Science from Chhatrapati Shahu Ji Maharaj University, Kanpur.
+- 👀 I’m a Full Stack Web Developer.
